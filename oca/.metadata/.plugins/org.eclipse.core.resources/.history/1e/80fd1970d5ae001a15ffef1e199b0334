@@ -1,0 +1,10 @@
+package com.capgemini.corrected;
+
+import java.awt.List;
+import java.util.ArrayList;
+
+public class Example26 {
+	public static void main(String[] args) {
+		List<String> names = new ArrayList<>();
+	}
+}

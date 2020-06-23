@@ -1,0 +1,5 @@
+package com.capgemini.corrected.ex125;
+
+public interface Readable {
+
+}

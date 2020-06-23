@@ -1,0 +1,11 @@
+package com.capgemini.corrected;
+
+public class Example71 {
+	public static void main(String[] args) {
+		try {
+			method1();
+		} catch (MyException me) {
+			System.out.println("A");
+		}
+	}
+}

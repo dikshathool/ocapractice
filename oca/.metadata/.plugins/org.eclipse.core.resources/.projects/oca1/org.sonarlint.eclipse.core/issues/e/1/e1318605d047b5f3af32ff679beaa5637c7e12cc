@@ -1,0 +1,6 @@
+
+›"squid:ClassVariableVisibilityCheck"MMake s a static final constant or non-public and provide accessors if needed.(±¸¡í8Èã±Ä˜.HÄRMINORZVULNERABILITY
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÎùéHÁRMINORZ
+CODE_SMELL
+Ysquid:S1068"%Remove this unused "q" private field.(±Ðáš8Èã±Ä˜.HÅRMAJORZ
+CODE_SMELL

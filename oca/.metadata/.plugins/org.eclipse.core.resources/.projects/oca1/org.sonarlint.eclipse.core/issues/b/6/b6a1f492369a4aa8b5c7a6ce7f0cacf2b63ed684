@@ -1,0 +1,8 @@
+
+ƒsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍãµÀøÿÿÿÿ8¹ñìé—.H0RMAJORZ
+CODE_SMELL
+psquid:S1197"8Move the array designator from the variable to the type.(Òó­„ýÿÿÿÿ8Âøæé—.H*RMINORZ
+CODE_SMELL
+k
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ò­êõ8­—ïé—.H1RMAJORZ
+CODE_SMELL

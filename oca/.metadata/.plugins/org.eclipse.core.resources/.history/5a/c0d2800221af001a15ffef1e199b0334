@@ -1,0 +1,11 @@
+package com.capgemini.corrected.ex43test;
+
+import com.capgemini.corrected.ex43.Acc;
+
+public class Test extends Acc {
+	public static void main(String[] args) {
+		Test obj = new Test();
+		obj.s = 6;
+	}
+
+}

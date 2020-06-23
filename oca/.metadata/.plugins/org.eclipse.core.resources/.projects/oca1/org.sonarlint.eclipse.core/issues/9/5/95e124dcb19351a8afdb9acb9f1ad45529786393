@@ -1,0 +1,7 @@
+
+Ysquid:S2201	",The return value of "plusDays" must be used.(Ó³æ†8¦¯¬¹š.HîRMAJORZBUG
+[squid:S2201
+".The return value of "plusMonths" must be used.(Ðî°®8¦¯¬¹š.HïRMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï·§žýÿÿÿÿ8¦¯¬¹š.HðRMAJORZ
+CODE_SMELL

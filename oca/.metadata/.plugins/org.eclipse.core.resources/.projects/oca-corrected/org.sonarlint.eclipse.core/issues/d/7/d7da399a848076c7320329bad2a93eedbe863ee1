@@ -1,0 +1,6 @@
+
+nsquid:S1854"5Remove this useless assignment to local variable "x".(œÉ»’üÿÿÿÿ8ØÕ¨¬.H§RMAJORZ
+CODE_SMELL
+lsquid:S2123":Remove this increment or correct the code not to waste it.(œÉ»’üÿÿÿÿ8ØÕ¨¬.H¨RMAJORZBUG
+ssquid:UnusedPrivateMethod",Remove this unused private "doStuff" method.(“©Âıÿÿÿÿ8ØÕ¨¬.H©RMAJORZ
+CODE_SMELL

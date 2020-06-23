@@ -1,0 +1,10 @@
+
+tsquid:S1854";Remove this useless assignment to local variable "manager".(˜“äíýÿÿÿÿ8­£Ý¹™.HöRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á‘áÆùÿÿÿÿ8ôØ¹™.HíRMAJORZ
+CODE_SMELL
+¥"squid:ClassVariableVisibilityCheck"WMake stockOption a static final constant or non-public and provide accessors if needed.(Ñ„‹›8éÿÌ¹™.HáRMINORZVULNERABILITY
+esquid:S1481",Remove this unused "manager" local variable.(˜“äíýÿÿÿÿ8­£Ý¹™.H÷RMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë‘8¿ŒÙ¹™.HïRMAJORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8¾Ý…Þ¬.H“	RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÉ´Â8‚ÌþÝ¬.H’	RMAJORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(½âÉËüÿÿÿÿ8¨×ãÝ¬.H‹	RMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(æ¡‘Èùÿÿÿÿ8¨×ãÝ¬.HŠ	RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šÕ½üÿÿÿÿ8÷«‡Þ¬.H”	RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·ïƒ€8÷«‡Þ¬.H•	RMAJORZ
+CODE_SMELL

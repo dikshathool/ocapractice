@@ -1,0 +1,7 @@
+
+–squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äÄõÇüÿÿÿÿ8ÑžÚ“˜.HkRCRITICALZ
+CODE_SMELL
+Zsquid:S3985"'Remove this unused private "Q17" class.(Ä÷‡º8“úß“˜.HlRMAJORZ
+CODE_SMELL
+]squid:S1068"%Remove this unused "i" private field.(äÄõÇüÿÿÿÿ8“úß“˜.HmRMAJORZ
+CODE_SMELL

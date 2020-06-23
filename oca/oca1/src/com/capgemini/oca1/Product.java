@@ -1,0 +1,6 @@
+package com.capgemini.oca1;
+
+public class Product {
+	double price;
+
+}

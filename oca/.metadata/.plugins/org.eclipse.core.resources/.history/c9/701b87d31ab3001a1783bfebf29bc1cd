@@ -1,0 +1,7 @@
+package com.capgemini.corrected;
+
+final class Example133 {
+//	private static int i;
+//	public void doStuff() {}
+	public Example133() { }
+}

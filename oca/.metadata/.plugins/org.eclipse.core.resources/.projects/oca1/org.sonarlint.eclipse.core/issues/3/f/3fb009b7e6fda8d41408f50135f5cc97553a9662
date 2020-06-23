@@ -1,0 +1,10 @@
+
+wsquid:S3358	"DExtract this nested ternary operation into an independent statement.(¢ëû8Íøà‰š.HÌRMAJORZ
+CODE_SMELL
+wsquid:S3358	"DExtract this nested ternary operation into an independent statement.(¢ëû8Íøà‰š.HÍRMAJORZ
+CODE_SMELL
+l
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8Íøà‰š.HÎRMAJORZ
+CODE_SMELL
+psquid:S2583	"DChange this condition so that it does not always evaluate to "false"(¢ëû8ÿ²â‰š.HÏRMAJORZBUG

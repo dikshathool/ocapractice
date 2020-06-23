@@ -1,0 +1,12 @@
+
+isquid:S3518"9Make sure "div" can't be zero before doing this division.(Ò”õÇ8â√†∏¨.H‚RCRITICALZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úû‡É8â√†∏¨.HÂRMAJORZ
+CODE_SMELL
+ksquid:S1854"7Remove this useless assignment to local variable "ans".(Ò”õÇ8ï≤§∏¨.HÏRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(çÈÈ‹8â√†∏¨.HÒRMAJORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "ans" local variable.(Ò”õÇ8Ï’•∏¨.HÚRMINORZ
+CODE_SMELL

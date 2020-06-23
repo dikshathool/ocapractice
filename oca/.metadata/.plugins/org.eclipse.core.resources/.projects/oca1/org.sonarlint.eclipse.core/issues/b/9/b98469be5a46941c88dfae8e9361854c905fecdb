@@ -1,0 +1,19 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ùõ}8úùæÃ˜.H¬RMAJORZ
+CODE_SMELL
+asquid:S1172"-Remove this unused method parameter "cardNo".(œ±âø8úùæÃ˜.H¨RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡´Èšþÿÿÿÿ8úùæÃ˜.H©RMAJORZ
+CODE_SMELL
+fsquid:S1172"-Remove this unused method parameter "cardNo".(¯°öÛüÿÿÿÿ8úùæÃ˜.H«RMAJORZ
+CODE_SMELL
+¸%squid:RedundantThrowsDeclarationCheck"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(¯°öÛüÿÿÿÿ8ø©÷Ã˜.HºRMINORZ
+CODE_SMELL
+€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¯°öÛüÿÿÿÿ8ø©÷Ã˜.H¹RMAJORZ
+CODE_SMELL
+{squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(œ±âø8ÚÂƒÄ˜.H¿RMAJORZ
+CODE_SMELL
+º%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(œ±âø8ÚÂƒÄ˜.HÀRMINORZ
+CODE_SMELL

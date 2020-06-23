@@ -1,0 +1,10 @@
+package com.capgemini.corrected.ex125;
+
+public class Book implements Readable {
+
+	@Override
+	public void readBook() {
+		System.out.println("Read Book");
+	}
+
+}

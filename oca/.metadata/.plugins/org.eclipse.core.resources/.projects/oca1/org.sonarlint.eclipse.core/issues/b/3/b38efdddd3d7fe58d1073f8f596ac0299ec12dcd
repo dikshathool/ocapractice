@@ -1,0 +1,12 @@
+
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Ήƒώÿÿÿÿ8ότισ—.HERMAJORZ
+CODE_SMELL
+’squid:S4165"_Remove this useless assignment; "x" already holds the assigned value along all execution paths.(ή‡Ο8ότισ—.H@RMAJORZ
+CODE_SMELL
+hsquid:S1854"5Remove this useless assignment to local variable "x".(ή‡Ο8ότισ—.HCRMAJORZ
+CODE_SMELL
+[squid:S1656"/Remove or correct this useless self-assignment.(ή‡Ο8ότισ—.HDRMAJORZBUG
+osquid:S1226	">Introduce a new variable instead of reusing the parameter "y".(ςι„®όÿÿÿÿ8ότισ—.HARMINORZBUG
+msquid:S1854	"5Remove this useless assignment to local variable "y".(ςι„®όÿÿÿÿ8ότισ—.HBRMAJORZ
+CODE_SMELL

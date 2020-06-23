@@ -1,0 +1,24 @@
+
+lsquid:S1197"8Move the array designator from the variable to the type.(ÂŠ’8öë¾‘­.HÙ
+RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ªù¥ıÿÿÿÿ8²Ã×‘­.Hâ
+RMAJORZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ô´ØÕıÿÿÿÿ8öë¾‘­.HÚ
+RCRITICALZ
+CODE_SMELL
+€
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(¯ú¤v8öë¾‘­.HÛ
+RBLOCKERZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã¢Âıÿÿÿÿ8„™Ø‘­.Hã
+RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã¢Âıÿÿÿÿ8„™Ø‘­.Hä
+RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã¢Âıÿÿÿÿ8„™Ø‘­.Hå
+RMAJORZ
+CODE_SMELL

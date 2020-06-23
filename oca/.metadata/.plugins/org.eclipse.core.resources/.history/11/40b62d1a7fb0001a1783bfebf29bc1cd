@@ -1,0 +1,8 @@
+package com.capgemini.corrected.ex62;
+
+public class B {
+	private int doStuff() {
+		privatee int x = 100;
+		return x++;
+	}
+}

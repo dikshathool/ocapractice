@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.capgemini.set1.Q28"/>
+<fullyQualifiedTypeName name="p1.Acc"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="com.capg.set160.Manager"/>
+<fullyQualifiedTypeName name="com.capg.set160.Employee"/>
+<fullyQualifiedTypeName name="com.capg.set162.Student"/>
+<fullyQualifiedTypeName name="com.capg.set163.MyException"/>
+<fullyQualifiedTypeName name="java.io.IOError"/>
+<fullyQualifiedTypeName name="com.capg.set164.Downloadable"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.Example82"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.Example100"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.Example101"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.Example106"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.ex125.Downloadable"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.ex125.EBook"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.Example133"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.ex146.Exportable"/>
+<fullyQualifiedTypeName name="com.capgemini.corrected.ex146.ReportTool"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

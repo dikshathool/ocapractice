@@ -1,0 +1,17 @@
+
+›squid:S4165"bRemove this useless assignment; "dVar" already holds the assigned value along all execution paths.(Θώÿÿÿÿ8¶„ª¬.H“RMAJORZ
+CODE_SMELL
+–squid:S4165	"bRemove this useless assignment; "fVar" already holds the assigned value along all execution paths.(ξηΠΫ8¶„ª¬.H”RMAJORZ
+CODE_SMELL
+›squid:S4165"bRemove this useless assignment; "iVar" already holds the assigned value along all execution paths.(‰Οδόÿÿÿÿ8¶„ª¬.H•RMAJORZ
+CODE_SMELL
+–squid:S4165"bRemove this useless assignment; "fVar" already holds the assigned value along all execution paths.(—ιƒ8¶„ª¬.H–RMAJORZ
+CODE_SMELL
+qsquid:S1854"8Remove this useless assignment to local variable "iVar".(‰Οδόÿÿÿÿ8¶„ª¬.H—RMAJORZ
+CODE_SMELL
+lsquid:S1854"8Remove this useless assignment to local variable "fVar".(—ιƒ8¶„ª¬.HRMAJORZ
+CODE_SMELL
+qsquid:S1854"8Remove this useless assignment to local variable "dVar".(Έωϊÿÿÿÿ8¶„ª¬.H™RMAJORZ
+CODE_SMELL
+lsquid:S1854"8Remove this useless assignment to local variable "iVar".(•ªν8¶„ª¬.HRMAJORZ
+CODE_SMELL

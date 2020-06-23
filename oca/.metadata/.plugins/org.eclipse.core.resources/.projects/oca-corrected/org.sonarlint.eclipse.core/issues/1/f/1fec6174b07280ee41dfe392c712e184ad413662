@@ -1,0 +1,12 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô·ê8©¬ÒŞ¬.H²	RMAJORZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(İü²ó8©¬ÒŞ¬.H±	RMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "b1".(ÁÂÿ¯øÿÿÿÿ8–üÕŞ¬.H³	RMAJORZ
+CODE_SMELL
+]squid:S1905"$Remove this unnecessary cast to "A".(——Ö€øÿÿÿÿ8–üÕŞ¬.H´	RMINORZ
+CODE_SMELL
+Xsquid:S1905"$Remove this unnecessary cast to "B".(ÖŠñÛ8–üÕŞ¬.Hµ	RMINORZ
+CODE_SMELL

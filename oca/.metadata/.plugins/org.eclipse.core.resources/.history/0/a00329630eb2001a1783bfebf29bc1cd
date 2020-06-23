@@ -1,0 +1,13 @@
+package com.capgemini.corrected;
+
+public class Example100 {
+	int count;
+	public static void displayMsg() {
+		count++;
+		System.out.println("Welcome "+"Visit Count: "+count);
+	}
+	public static void main(String[] args) {
+		Example100.displayMsg();
+		Example100.displayMsg();
+	}
+}

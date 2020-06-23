@@ -1,0 +1,8 @@
+
+u"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ô´ØÕıÿÿÿÿ8à¡¹Æ˜.HîRCRITICALZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(ÂŠ’8à¡¹Æ˜.HíRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ªù¥ıÿÿÿÿ8è†¿Æ˜.HğRMAJORZ
+CODE_SMELL
